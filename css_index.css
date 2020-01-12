@@ -1,0 +1,29 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+    padding-bottom: 186px;
+    border-width: 8px;
+    border-style: double;
+    border-color: #D8AD2E;
+    border-radius: 0px 40px 0px 40px;
+}
+.title{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.title h1{
+    color: #6d4518;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-family: cursive, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+.submit{
+    background-color: rgb(172, 225, 255);
+}
